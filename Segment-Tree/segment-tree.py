@@ -14,7 +14,7 @@ def build( node, i, f, *array):
 def querry( node, i, f, li, ld, *array):
 
 	 if i>ld or f < li:
-		 return INT_MIN
+		 return 0
 
 	 if i >= li and f <= ld:
 		 return st[node]
