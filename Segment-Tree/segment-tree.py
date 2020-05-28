@@ -1,5 +1,4 @@
 st = []
-INT_MIN = int( ( 1 << 32 )) * -1
 
 def build( node, i, f, *array):
 	if i == f:
