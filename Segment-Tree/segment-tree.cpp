@@ -59,7 +59,7 @@ void update( int node, int i, int f, int pos, int val, auto array[])
 	return;
 }
 
-main()
+int main() /// fixed GNU GCC 9.3 
 {
 	///ios_base::sync_with_stdio(false); cin.tie(NULL); optimize standar input
 	int vx[] = {1,2,3,4,5,6,7,8,9,0};
