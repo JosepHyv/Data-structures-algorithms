@@ -57,7 +57,7 @@ struct bst
 
 bst tree;
 
-main ()
+int main () /// fixed GNU GCC 9.3 
 {
 	int arr[] = {5,2,1,7,9,3};
 	int size = sizeof(arr) / sizeof(arr[0]);
