@@ -37,6 +37,11 @@ bool pertenencia(int x, int y ) /// funcion de pertenencia, nos retorna un true 
     return false;
 }
 
+int size(int x ) 
+{
+    return -root[find(x)];   
+}
+
 int n;
 int m;
 char opcion;
