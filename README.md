@@ -8,4 +8,5 @@ This will be a curated list for DSA, these will be implemented in several langua
     - [Bubble Sort](Sorting/BubbleSort/bubble_sort.go)
     - [Selection Sort](Sorting/SelectionSort/selection_sort.go)
     - [Bucket Sort](Sorting/BucketSort/bucket_sort.go)
+    - [Insertion Sort](Sorting/InsertionSort/inertion_sort.go)
 
