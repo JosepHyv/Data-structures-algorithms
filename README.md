@@ -1,5 +1,10 @@
-# Data-structures-algorithms
+# Data Structures and Algorithms
 
-Esta es una compilacion de estructuras de datos que conozco y eh usado 
-en competencias de programacion, planeo subir las implementaciones ademas
-de explicaciones en español
+This will be a curated list for DSA, these will be implemented in several languages but mainly in Go (golang) bc, is the language that i whant to master, feel free to add your own implementation, in the same or different language
+
+---
+
+- [Sorting](Sorting/)
+    - [Bubble Sort](Sorting/BubbleSort/bubble_sort.go)
+    - [Selection Sort](Sorting/SelectionSort/selection_sort.go)
+
